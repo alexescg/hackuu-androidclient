@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+    <item android:id="@+id/action_start" android:title="@string/action_example"
+        android:icon="@android:drawable/ic_media_play"
+        android:showAsAction="ifRoom"/>
+    <item android:id="@+id/action_stop" android:title="@string/action_example"
+        android:icon="@android:drawable/ic_media_pause"
+        android:showAsAction="ifRoom"/> />
+</menu>

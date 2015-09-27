@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Camaras de Foto Multas</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Estáticas</name>
+			<Placemark>
+				<name>Periferico y Haciendas
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1206341,28.6322948,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Nogales</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1148834,28.7325926,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Periférico de la Juventud y Universidad de Sorbona</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1359978,28.680648499999997,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vialidad Sacramento y Calley Yucatán </name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0688782,28.6631775,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vialidad Sacramento y Monte Albán
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0852075,28.713681199999996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Luis G Urbina
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1387014,28.7172567,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>16 de Septiembre
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.112802,28.6903618,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>División del Norte
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0796928,28.656700400000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Fco. Villa
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.129818,28.6654368,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Periférico de la Juventud y Valle Escondid0 del Fénix</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1291313,28.658658599999995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Avenida Carlos Pacheco y Ladrillo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0345674,28.6302042,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>20 Noviembre y Pacheco
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.058836,28.6434061,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruta Sur II y 68A
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0921061,28.6097767,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruta Sur II y Calle Mariano Samaniego</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0679448,28.6188467,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Monte Potrero
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0826111,28.7099361,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Roble</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0751116,28.6850535,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>R. Almada
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0500813,28.6017798,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Av. Cantera
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1195827,28.6465697,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Móviles</name>
+			<Placemark>
+				<name>Circuito Universitario y Paseos de la Universidad</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1487007,28.7229586,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Periférico de la Juventud y Paseos de Guachochi</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1368239,28.7105101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>De la Juventud y Las Americas</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.129142,28.648838900000005,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>De la Juventud y Politécnico Nacional </name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1108494,28.6216061,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruta Sur II y 58A
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0865164,28.613120400000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruta Sur II y 16A
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0591149,28.6185265,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ruta Sur II y Mina la Princesa</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0430002,28.6240265,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Avenida Carlos Pacheco y Justiniani
+</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.047442,28.6370314,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Calle Juárez y 53</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0605311,28.6534805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tecnológico y Corregidora</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.07536910000002,28.6528968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tecnológico y Sicomoro</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0970092,28.671593299999998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tecnológico y 16 de Septiembre</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.112625,28.690366500000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Tecnológico y Miguel de Cervantes</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1368614,28.7153231,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Avenida Nogales y Recursos Hidráulicos </name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.1294532,28.72898,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vialidad Sacramento y Dotoievski</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0928249,28.729770200000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vialidad Sacramento y calle del Angel </name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-106.0710883,28.6751703,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

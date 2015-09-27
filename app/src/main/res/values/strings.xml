@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BurlaMultas</string>
+
+    <string name="navigation_drawer_open">Abrir menu navegación</string>
+    <string name="navigation_drawer_close">Cerrar menu navegación</string>
+
+    <string name="action_example">Start</string>
+
+    <string name="action_settings">Configuración</string>
+
+    <string name="hello_blank_fragment1">Hello blank fragment Mapa</string>
+    <string name="hello_blank_fragment2">Hello blank fragment Multas</string>
+    <string name="menu_item_1">Mapa</string>
+    <string name="menu_item_2">Multas</string>
+    <string name="title_activity_cam_maps">Map</string>
+    <string name="title_activity_mapa">Mapa</string>
+</resources>
